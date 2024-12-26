@@ -1,5 +1,10 @@
-由於google cardboard已停產，unity本身也不支援相關開發套件，不推薦以cardboard作為VR平台了，
+由於google cardboard已停產，
+unity本身也不支援相關開發套件，
+因此可以參考的學習資源不多，
+本專案是以官方提供的模板(主要視線追蹤)加以改造，
+包含場景和互動設計，但因為無法在unity debug必須輸出才知道效果，
+耗費大量的開發時程才完成相對完整的一個流程體驗，
 unity開發環境設定還是可以參考官方教學，
-cardboard-xr-plugin-master非常容易壞，遇到就重新載入，
-總之經歷重重困難這個VR專案算是告一段落
-，下台一鞠躬。
+cardboard-xr-plugin-master非常容易壞遇到就重新載入，
+總之經歷重重困難這個VR專案算是告一段落，
+下台一鞠躬。
